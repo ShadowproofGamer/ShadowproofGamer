@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am ~~Bat~~  ShadowproofGamer
 
 - 🔭 I’m currently working on GO server for filesharing and synchroneous PDF viewer for music bands.
 - 🌱 I’m currently learning GO and Rust
-- 
+   
 <!--
 **ShadowproofGamer/ShadowproofGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
