@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on GO server for filesharing and synchroneous PDF viewer for music bands.
+- 🌱 I’m currently learning GO and Rust
+- 
 <!--
 **ShadowproofGamer/ShadowproofGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadowproofGamer&theme=gruvbox&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowproofGamer&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook)
