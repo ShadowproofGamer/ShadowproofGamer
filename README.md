@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadowproofGamer&theme=gruvbox&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-![](https://github-readme-stats-shadowproofgamers-projects.vercel.app/api/top-langs/?username=ShadowproofGamer&theme=gruvbox&hide_border=true&layout=compact&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats-three-mu-84.vercel.app/api/top-langs/?username=ShadowproofGamer&theme=gruvbox&hide_border=true&layout=compact&hide=jupyter%20notebook)
