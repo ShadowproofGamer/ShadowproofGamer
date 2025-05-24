@@ -1,7 +1,7 @@
 ## Hi there 👋 I am ShadowproofGamer
 
 - 🔭 I’m currently working on Hyperheuristic for MO-CVRP
-- <!--GO server for filesharing and synchroneous PDF viewer for music bands.-->
+<!--GO server for filesharing and synchroneous PDF viewer for music bands.-->
 - 🌱 I’m currently learning GO, Terraform and Rust
    
 <!--
