@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadowproofGamer&theme=gruvbox&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+<img width="996" height="1512" alt="image" src="https://github.com/user-attachments/assets/5cb9b949-f35b-42e0-8632-0d75d7e7ea32" />
